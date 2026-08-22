@@ -1,0 +1,12 @@
+entry_id,posting_date,ref_number,narration,value
+L2001,2026-07-01,INV-2201,Office supplies delivery,1250.00
+L2002,2026-07-03,INV-2202,Monthly maintenance contract,4800.00
+L2003,2026-07-05,INV-2203,Consulting services - phase 1,14500.00
+L2004,2026-07-08,INV-2204,Hardware purchase - laptops,32000.00
+L2005,2026-07-12,INV-2206,Freight and logistics,2100.00
+L2006,2026-07-15,INV-2207,Consulting services - phase 2,15000.00
+L2007,2026-07-18,INV-2208,Office supplies delivery,900.00
+L2008,2026-07-20,INV-2209,Annual support fee,5400.00
+L2009,2026-07-25,INV-2211,Late payment penalty,150.00
+L2010,2026-07-28,INV-2212,Equipment rental,6700.00
+L2011,2026-07-30,INV-2213,Accrued consulting fee not yet invoiced,3000.00
