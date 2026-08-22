@@ -34,5 +34,5 @@ The app loads with built-in sample data by default (toggle it off in the sidebar
 ## Sample data
 `sample_data/vendor_statement.csv` and `sample_data/internal_ledger.csv` contain synthetic transactions with deliberate discrepancies (amount mismatches, items missing on each side) to demonstrate all four output buckets.
 
-## Live demo
-[Add your deployed Streamlit link here]
+## Live deploy
+https://reconciliation-copilot-zwr9g7zxwxtwejoxq7fuxm.streamlit.app/
